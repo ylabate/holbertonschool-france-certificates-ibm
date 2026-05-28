@@ -2,8 +2,8 @@
 
 > A professional collection of certifications earned during the Holberton School curriculum in partnership with IBM.
 
-![Repo Size](https://img.shields.io/github/repo-size/holbertonschool/holbertonschool-france-certificates-ibm)
-![Last Commit](https://img.shields.io/github/last-commit/holbertonschool/holbertonschool-france-certificates-ibm)
+![Repo Size](https://img.shields.io/github/repo-size/ylabate/holbertonschool-france-certificates-ibm)
+![Last Commit](https://img.shields.io/github/last-commit/ylabate/holbertonschool-france-certificates-ibm)
 
 ## 📝 Description & Objectives
 This repository serves as a centralized portfolio to showcase the technical skills and professional certifications acquired through the partnership between **Holberton School France** and **IBM**. 
